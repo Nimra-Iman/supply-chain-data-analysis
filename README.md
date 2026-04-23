@@ -1,0 +1,1 @@
+This project focuses on analyzing a supply chain dataset to extract meaningful insights related to supplier, manufacturing, shipment and revenue. The goal is to understand operational performance, identify inefficiencies, and support data-driven decision-making.
